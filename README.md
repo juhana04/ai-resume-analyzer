@@ -3,8 +3,9 @@
 A web app that reviews your resume PDF, compares it with a job description, and gives an ATS-style keyword match score plus AI feedback and suggestions.
 
 ## Demo
+<img width="1920" height="1080" alt="Screenshot 2026-11-19 131548" src="https://github.com/user-attachments/assets/9f1c5230-6d94-4eb3-9277-e57045e4ccfc" />
 
-*(add your screenshots here)*
+
 
 ## Features
 - Upload a resume PDF and paste any job description
